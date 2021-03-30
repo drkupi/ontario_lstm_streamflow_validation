@@ -81,7 +81,6 @@ st.write(
         poor performance. Thus it may be concluded that our regional model performs reasonably well for catchments 
         without dams and will less road densities (i.e., less human interventions) (NOTE: The map may take 30 seconds 
 	to 60 seconds when loading the first time).
-           
     """
 )
 
