@@ -79,7 +79,8 @@ st.write(
         R squared values are desired, it is observed here that catchments that have dams within (place tooltip 
         over a catchment to see additional catchment features including dam influenced area), generally have 
         poor performance. Thus it may be concluded that our regional model performs reasonably well for catchments 
-        without dams and will less road densities (i.e., less human interventions).
+        without dams and will less road densities (i.e., less human interventions) (NOTE: The map may take 30 seconds 
+	to 60 seconds when loading the first time).
            
     """
 )
