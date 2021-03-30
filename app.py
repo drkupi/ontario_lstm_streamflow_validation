@@ -102,10 +102,10 @@ def get_map(gdf):
                             range_color=(0, 1),
                             hover_name='catch_id',
                             hover_data=['fn_catch_a', 'pbias_v1', 'dam_area_r', 'road_densi'],
-                            center={"lat": 43.0, "lon": -80.7073},
+                            center={"lat": 43.5, "lon": -80.7073},
                             mapbox_style="open-street-map",
                             opacity=0.5,
-                            zoom=7,
+                            zoom=6,
                             labels={
                                 'rsq_v1': 'R Squared',
                                 'fn_catch_a': 'Catchment Area (sq_km)',
